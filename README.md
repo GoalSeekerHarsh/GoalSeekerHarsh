@@ -8,7 +8,7 @@ Graduating in 2028 with a CGPA of **8.78/10**. I'm a results-driven engineer pas
 ### 🚀 About Me
 - 🎓 **Education:** BS Engineering Science at IISER Bhopal | CGPA: 8.78/10
 - 💼 **Research Interests:** Quantitative finance, mathematical modeling, probability & statistics, and data-driven systems
-- 💻 **Competitive Coding:** Codeforces Rating **979** | Active participant in implementation & algorithmic problem-solving
+- 💻 **Competitive Coding:** Codeforces Rating **1007** | Active participant in implementation & algorithmic problem-solving
 - 📊 **Technical Focus:** Linear regression, econometrics, discrete mathematics, and optimization algorithms
 - ⚽ **Sports:** Football enthusiast
 - 📚 **Relevant Coursework:** Calculus (O Grade), Linear Algebra (A Grade), Discrete Mathematics, Econometrics I, Probability & Statistics
