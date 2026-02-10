@@ -43,8 +43,8 @@ Graduating in 2028 with a CGPA of **8.78/10**. I'm a results-driven engineer pas
 ---
 
 ### 📈 GitHub Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoalSeekerHarsh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoalSeekerHarsh&layout=compact&theme=radical)
+![Harsh's GitHub stats](https://github.com/GoalSeekerHarsh/GoalSeekerHarsh/blob/main/profile/stats.svg)
+![Top Langs](https://github.com/GoalSeekerHarsh/GoalSeekerHarsh/blob/main/profile/top-langs.svg)
 
 ---
 
